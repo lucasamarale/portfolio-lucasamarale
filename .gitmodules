@@ -1,3 +1,6 @@
 [submodule "projetos-academicos/correcoes-repasses"]
 	path = projetos-academicos/correcoes-repasses
 	url = https://github.com/lucasamarale/Correcoes-repasses.git
+[submodule "projetos-pessoais/correcoes-repasses"]
+	path = projetos-pessoais/correcoes-repasses
+	url = https://github.com/lucasamarale/Correcoes-repasses.git
