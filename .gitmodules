@@ -4,3 +4,6 @@
 [submodule "projetos-pessoais/correcoes-repasses"]
 	path = projetos-pessoais/correcoes-repasses
 	url = https://github.com/lucasamarale/Correcoes-repasses.git
+[submodule "MachineLearning"]
+	path = MachineLearning
+	url = https://github.com/diegonogare/MachineLearning.git
